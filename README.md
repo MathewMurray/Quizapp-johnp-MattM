@@ -1,2 +1,2 @@
-# Quizapp-johnp-MattM
-basic quiz app
+# quizapp_johnp_mattm
+created by John Pendergast and Mathew Murray.
